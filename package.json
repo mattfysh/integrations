@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phantomjs": "*",
-    "spawn-sync": "*",
-    "contextify": "*"
+    "karma-phantomjs-launcher": "*",
+    "browserify": "*",
+    "grunt-webfont": "*"
   }
 }
