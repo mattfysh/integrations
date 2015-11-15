@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "github": "*"
+    "github": "*",
+    "underscore": "~1.7.0",
+    "browserify": "^10.2.3"
   }
 }
