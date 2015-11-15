@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "github": "^0.2.4",
-    "underscore": "1.8.0"
+    "underscore": "1.8.0",
+    "medallia-slate": "3.2.0"
   }
 }
