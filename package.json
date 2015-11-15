@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify": "*"
+    "karma-phantomjs-launcher": "*",
+    "browserify": "*",
+    "grunt-webfont": "*"
   }
 }
