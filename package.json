@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "github": "*"
+    "github": "0.1.13"
   }
 }
