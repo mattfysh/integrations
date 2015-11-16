@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mkdir -p dist && eche console.log(window) > dist/main.js"
+    "build": "mkdir -p dist && echo 'console.log(window)' > dist/main.js && mv district.json dist"
   },
   "keywords": [],
   "author": "",
