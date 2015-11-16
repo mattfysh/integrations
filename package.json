@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "github": "0.1.13"
+    "github": "0.1.13",
+    "browserify": "^8.0.0"
   }
 }
